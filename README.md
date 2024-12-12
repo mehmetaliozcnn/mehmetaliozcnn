@@ -1,6 +1,11 @@
 ###
-
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+
+###
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B1ADA3&title_bg=%23555555&icon=discover.svg&icon_color=%2312AC36&title=hits&edge_flat=false" align="right"/></a><br>
+
+###
+<img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=green" align="right"/> </p>
 
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=A0A0A0&width=435&lines=%F0%9F%91%8B+Merhaba!+Ben+Mehmet+Ali+%C3%96zcan)](https://git.io/typing-svg)
