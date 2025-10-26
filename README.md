@@ -11,7 +11,7 @@
 <section>
   
   <h2>📚 Eğitim</h2>
-  <p><strong>Beykoz Üniversitesi Bilgisayar Programcılığı</strong> 2. sınıf öğrencisiyim ve yazılım geliştirme dünyasında kendimi geliştirmeyi hedefliyorum.</p>
+  <p><strong>Beykoz Üniversitesi Bilgisayar Programcılığı</strong> Mezunuyum ve yazılım geliştirme dünyasında kendimi geliştirmeyi hedefliyorum.</p>
   
   <h2>💻 Yetkinliklerim</h2>
   <ul>
